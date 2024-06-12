@@ -1,0 +1,16 @@
+.practice {
+    width: 120px;
+    display: block;
+    padding: 10px;
+    background-color: gray;
+    color: white;
+    transition-duration: 0.7s
+ }
+ .practice:hover {
+    background-color: lightsteelblue;
+    color: blue;
+    cursor: pointer;
+    transform: translate(20px)
+    
+
+}
